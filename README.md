@@ -105,13 +105,6 @@ Every question in the report is followed by business use cases and detailed reco
 
 ---
 
-## 🔗 Live Project URL
-
-👉 [**GitHub Repository Link**](https://github.com/anshjain1409/amazon-brazil-sql-analysis)  
-(Replace with your actual GitHub link when uploading)
-
----
-
 ## 📣 Author
 
 **Ansh Jain**  
